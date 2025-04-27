@@ -1,0 +1,14 @@
+.header {
+  background-color: blue;
+  padding: 8px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.input {
+  width: 400px;
+}
